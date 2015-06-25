@@ -29,6 +29,6 @@ Credits:
 		CSS3 Pie (css3pie.com)
 		background-size polyfill (github.com/louisremi)
 		skel (n33.co)
-		David
-		Micheal
-		Isreal
+		David (HoldBrooks)
+		Micheal 
+		Isreal (A.J)
